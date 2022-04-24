@@ -1,0 +1,1 @@
+from pyWrskp import __init__
